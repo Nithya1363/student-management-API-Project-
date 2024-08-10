@@ -14,7 +14,7 @@ Hibernate: For Object-Relational Mapping (ORM) to interact with the database.
 Spring Tool Suite: The IDE used for development.
 Features
 
-!) CRUD Operations: Create, Read, Update, and Delete student records. 2) Validation: Backend validation to ensure data integrity. 3) API Documentation: Comprehensive API documentation using Swagger UI.
+1) CRUD Operations: Create, Read, Update, and Delete student records. 2) Validation: Backend validation to ensure data integrity. 3) API Documentation: Comprehensive API documentation using Swagger UI.
 
 Getting Started
 
